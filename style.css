@@ -1,3 +1,7 @@
+body{
+    background: url(sumon.png) no-repeat top center;
+    background-size: cover;
+}
 body h1{
     font-size: 35px;
     color: green;
